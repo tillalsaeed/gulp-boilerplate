@@ -1,0 +1,30 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "bootstrap": "^4.6.2",
+    "gulp": "^4.0.2",
+    "imagemin": "^8.0.1",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "install": "^0.13.0",
+    "npm": "^10.5.2",
+    "sass": "^1.75.0"
+  }
+}
